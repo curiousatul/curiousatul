@@ -127,6 +127,8 @@ Driven by a deep-seated commitment to empowering others and a lifelong passion f
 
 <div align="center">
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=curiousatul&theme=radical&row=1)](https://github.com/curiousatul)
+
 ![Visitors](https://komarev.com/ghpvc/?username=curiousatul&color=brightgreen&style=flat-square)
 [![Years Badge](https://badges.pufler.dev/years/curiousatul)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/curiousatul)](https://badges.pufler.dev)
