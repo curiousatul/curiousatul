@@ -122,23 +122,6 @@ Driven by a deep-seated commitment to empowering others and a lifelong passion f
 
 </div>
 
-## 🏆 Achievements & Recognition
-
-- Top Voice Mentor on LinkedIn
-- Top Cybersecurity Voice
-- Official Mentor for Deeptech, AI, and Cybersecurity at TiE
-- Sought-after Speaker and Panelist
-
-## 🤝 Let's Connect
-
-- 🌐 Website: [www.atulpathria.com](https://www.atulpathria.com)
-- 📧 Email: hello@atulpathria.com
-- 💼 LinkedIn: [Atul Pathria](https://linkedin.com/in/pathria)
-- 🐦 Twitter: [@atulpathria](https://x.com/atulpathria)
-- 📸 Instagram: [@atul.pathria](https://instagram.com/atul.pathria)
-- 📍 Location: D-151, Industrial Area, Phase 8, Mohali
-
-
 ## 🤝 Books & Publications
 
 ### Unlock your Networking Potential: Power of the Connection
@@ -158,6 +141,23 @@ A comprehensive guide that reveals the secrets of building and maintaining power
 Embark on a fascinating journey through the world of coffee. From bean origins to brewing techniques, discover the art and science behind the perfect cup while exploring coffee's rich cultural heritage.
 
 [![Buy on Amazon](https://img.shields.io/badge/Buy_on_Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white)](https://amzn.to/3X4CnsO)
+
+## 🏆 Achievements & Recognition
+
+- Top Voice Mentor on LinkedIn
+- Top Cybersecurity Voice
+- Official Mentor for Deeptech, AI, and Cybersecurity at TiE
+- Sought-after Speaker and Panelist
+
+## 🤝 Let's Connect
+
+- 🌐 Website: [www.atulpathria.com](https://www.atulpathria.com)
+- 📧 Email: hello@atulpathria.com
+- 💼 LinkedIn: [Atul Pathria](https://linkedin.com/in/pathria)
+- 🐦 Twitter: [@atulpathria](https://x.com/atulpathria)
+- 📸 Instagram: [@atul.pathria](https://instagram.com/atul.pathria)
+- 📍 Location: D-151, Industrial Area, Phase 8, Mohali
+
 
 ## 💭 Philosophy
 
