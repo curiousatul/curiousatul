@@ -146,6 +146,27 @@ Driven by a deep-seated commitment to empowering others and a lifelong passion f
 - 📸 Instagram: [@atul.pathria](https://instagram.com/atul.pathria)
 - 📍 Location: D-151, Industrial Area, Phase 8, Mohali
 
+
+## 🤝 Books & Publications
+
+### Unlock your Networking Potential: Power of the Connection
+<div align="center">
+  <img src="path/to/networking-book-cover.jpg" alt="Networking Book Cover" width="200"/>
+</div>
+
+A comprehensive guide that reveals the secrets of building and maintaining powerful professional networks. Learn proven strategies for meaningful connections that drive career growth and business success.
+
+[![Buy on Amazon](https://img.shields.io/badge/Buy_on_Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white)](https://amzn.to/3yS0Vgt)
+
+### Coffee Dialogues: Curiosity of a Brewseeker
+<div align="center">
+  <img src="path/to/coffee-book-cover.jpg" alt="Coffee Book Cover" width="200"/>
+</div>
+
+Embark on a fascinating journey through the world of coffee. From bean origins to brewing techniques, discover the art and science behind the perfect cup while exploring coffee's rich cultural heritage.
+
+[![Buy on Amazon](https://img.shields.io/badge/Buy_on_Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white)](https://amzn.to/3X4CnsO)
+
 ## 💭 Philosophy
 
 > "Kismat se jyada or samay se pehle kuch nahi milta"
