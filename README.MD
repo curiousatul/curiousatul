@@ -6,12 +6,13 @@
 ## 📊 Profile Statistics
 
 <div align="center">
-  
+
 [![Profile Views](https://komarev.com/ghpvc/?username=curiousatul&color=brightgreen)](https://github.com/curiousatul)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/pathria)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/pathria)
 [![Twitter Follow](https://img.shields.io/twitter/follow/atulpathria?style=social)](https://x.com/atulpathria)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F)](https://instagram.com/atul.pathria)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&logoColor=white)](https://instagram.com/atul.pathria)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.atulpathria.com)](https://www.atulpathria.com)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000)](https://www.youtube.com/@AtulPathria)
 
 </div>
 
