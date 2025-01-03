@@ -151,7 +151,7 @@ Driven by a deep-seated commitment to empowering others and a lifelong passion f
 
 ### Unlock your Networking Potential: Power of the Connection
 <div align="center">
-  <img src="path/to/networking-book-cover.jpg" alt="Networking Book Cover" width="200"/>
+  <img src="https://www.atulpathria.com/networking-book-cover.jpg" alt="Networking Book Cover" width="200"/>
 </div>
 
 A comprehensive guide that reveals the secrets of building and maintaining powerful professional networks. Learn proven strategies for meaningful connections that drive career growth and business success.
@@ -160,7 +160,7 @@ A comprehensive guide that reveals the secrets of building and maintaining power
 
 ### Coffee Dialogues: Curiosity of a Brewseeker
 <div align="center">
-  <img src="path/to/coffee-book-cover.jpg" alt="Coffee Book Cover" width="200"/>
+  <img src="https://www.atulpathria.com/book-cover.jpeg" alt="Coffee Book Cover" width="200"/>
 </div>
 
 Embark on a fascinating journey through the world of coffee. From bean origins to brewing techniques, discover the art and science behind the perfect cup while exploring coffee's rich cultural heritage.
