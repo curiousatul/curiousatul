@@ -121,13 +121,14 @@ Driven by a deep-seated commitment to empowering others and a lifelong passion f
 
 ---
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=curiousatul&theme=radical&row=1)](https://github.com/curiousatul)
+
 <div align="center">
   <p>© 2024 atulpathria.com. All rights reserved.</p>
 </div>
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=curiousatul&theme=radical&row=1)](https://github.com/curiousatul)
 
 ![Visitors](https://komarev.com/ghpvc/?username=curiousatul&color=brightgreen&style=flat-square)
 [![Years Badge](https://badges.pufler.dev/years/curiousatul)](https://badges.pufler.dev)
