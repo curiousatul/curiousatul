@@ -14,7 +14,7 @@
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.atulpathria.com)](https://www.atulpathria.com)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000)](https://www.youtube.com/@AtulPathria)
 [![Medium](https://img.shields.io/badge/Medium-Follow-00ab6c?logo=medium&logoColor=white)](https://medium.com/@atulpathria)
-[![The Daily Grind](https://img.shields.io/badge/LinkedIn-Newsletter-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/newsletters/the-daily-grind-7005915333148454912/)
+[![The Daily Grind ☕](https://img.shields.io/badge/LinkedIn-Newsletter-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/newsletters/the-daily-grind-7005915333148454912/)
 [![TechShield Insider](https://img.shields.io/badge/LinkedIn-TechShield_Insider-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/newsletters/techshield-insider-7015577447634989056/)
 
 </div>
