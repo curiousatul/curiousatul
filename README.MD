@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Welcome to Atul Pathria's Profile</h1>
-  <p>🛡️ Cybersecurity Expert | 🎯 Entrepreneur | 👥 Community Leader | 📚 Author</p>
+  <p>🛡️ Cybersecurity Expert | 🎯 Entrepreneur | 👥 Community Leader | 📚 Author | 🎤 Speaker</p>
 </div>
 
 ## 📊 Profile Statistics
