@@ -63,6 +63,7 @@ Driven by a deep-seated commitment to empowering others and a lifelong passion f
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 ![Linode](https://img.shields.io/badge/Linode-00A95C?style=for-the-badge&logo=linode&logoColor=white)
+![Cloudways](https://img.shields.io/badge/Cloudways-2C3E50?style=for-the-badge&logo=cloudways&logoColor=white)
 ![Vultr](https://img.shields.io/badge/Vultr-007BFC?style=for-the-badge&logo=vultr&logoColor=white)
 ![GridPane](https://img.shields.io/badge/GridPane-00A1E0?style=for-the-badge&logo=gridpane&logoColor=white)
 
