@@ -157,7 +157,7 @@ Driven by a deep-seated commitment to empowering others and a lifelong passion f
 [![trophy](https://github-profile-trophy.vercel.app/?username=curiousatul&theme=radical&row=1)](https://github.com/curiousatul)
 
 <div align="center">
-  <p>© 2024 atulpathria.com. All rights reserved.</p>
+  <p>© 2025 atulpathria.com. All rights reserved.</p>
 </div>
 
 <div align="center">
