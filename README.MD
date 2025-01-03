@@ -17,6 +17,7 @@
 [![The Daily Grind](https://img.shields.io/badge/LinkedIn-The_Daily_Grind-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/newsletters/the-daily-grind-7005915333148454912/)
 [![TechShield Insider](https://img.shields.io/badge/LinkedIn-TechShield_Insider-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/newsletters/techshield-insider-7015577447634989056/)
 [![Company GitHub](https://img.shields.io/badge/GitHub-QuinjiTech-181717?logo=github&logoColor=white)](https://github.com/QuinjiTech)
+[![Book a Meeting](https://img.shields.io/badge/Calendly-Book_a_Meeting-00a2ff?logo=calendly&logoColor=white)](https://calendly.com/atul-quinji/15min)
 
 </div>
 
