@@ -3,8 +3,6 @@
   <p>🛡️ Cybersecurity Expert | 📊 Product Manager | 🎯 Entrepreneur | 👥 Community Leader | 📚 Author | 🎤 Speaker</p>
 </div>
 
-## 📊 Profile Statistics
-
 <div align="center">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=curiousatul&color=brightgreen)](https://github.com/curiousatul)
