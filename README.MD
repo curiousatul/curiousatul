@@ -6,6 +6,7 @@
 <div align="center">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=curiousatul&color=brightgreen)](https://github.com/curiousatul)
+[![Stars](https://img.shields.io/github/stars/curiousatul?style=social)]
 [![LinkedIn Premium](https://img.shields.io/badge/LinkedIn-@pathria-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/pathria)
 [![Twitter Verified](https://img.shields.io/badge/Twitter-@atulpathria-blue?logo=twitter&logoColor=white)](https://x.com/atulpathria)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&logoColor=white)](https://instagram.com/atul.pathria)
@@ -183,6 +184,6 @@ Embark on a fascinating journey through the world of coffee. From bean origins t
 [![Years Badge](https://badges.pufler.dev/years/curiousatul)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/curiousatul)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/curiousatul)](https://badges.pufler.dev)
-[![Stars Badge](https://badges.pufler.dev/stars/curiousatul)](https://badges.pufler.dev)
+
 
 </div>
