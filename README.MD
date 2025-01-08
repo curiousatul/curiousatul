@@ -183,5 +183,6 @@ Embark on a fascinating journey through the world of coffee. From bean origins t
 [![Years Badge](https://badges.pufler.dev/years/curiousatul)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/curiousatul)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/curiousatul)](https://badges.pufler.dev)
+[![Stars Badge](https://badges.pufler.dev/stars/curiousatul)](https://badges.pufler.dev)
 
 </div>
