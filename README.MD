@@ -6,7 +6,7 @@
 <div align="center">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=curiousatul&color=brightgreen)](https://github.com/curiousatul)
-[![Stars](https://img.shields.io/github/stars/curiousatul?style=social)]
+![Stars](https://img.shields.io/github/stars/curiousatul?style=social)
 [![LinkedIn Premium](https://img.shields.io/badge/LinkedIn-@pathria-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/pathria)
 [![Twitter Verified](https://img.shields.io/badge/Twitter-@atulpathria-blue?logo=twitter&logoColor=white)](https://x.com/atulpathria)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&logoColor=white)](https://instagram.com/atul.pathria)
