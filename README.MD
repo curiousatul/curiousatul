@@ -19,7 +19,7 @@ I build, secure, and maintain AI agent systems for founders who need production 
 <tr>
 <td align="center" width="250">
 <a href="https://www.amazon.com/Production-Ready-Agents-Reliability-Real-World-ebook/dp/B0GQ9FV9D2/">
-<img src="https://m.media-amazon.com/images/I/71RJ0FMTXCL._SY466_.jpg" alt="Production Ready AI Agents" width="150"/>
+<img src="https://m.media-amazon.com/images/I/717VUNCZVtL._SL1500_.jpg" alt="Production Ready AI Agents" width="150"/>
 </a>
 <br/>
 <strong>Production Ready AI Agents</strong>
