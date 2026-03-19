@@ -66,3 +66,4 @@ Proven strategies for building professional networks that drive career growth an
 [![Packages](https://img.shields.io/badge/Packages_&_Pricing-2ea44f?style=for-the-badge)](https://quinji.com/packages)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@pathria-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pathria)
 [![Twitter](https://img.shields.io/badge/X-@atulpathria-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/atulpathria)
+[![Instagram](https://img.shields.io/badge/Instagram-@atul.pathria-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/atul.pathria)
