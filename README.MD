@@ -14,19 +14,55 @@ I build, secure, and maintain AI agent systems for founders who need production 
 
 ## Books
 
-### Production Ready AI Agents
-Security, reliability, and control for real-world AI workflows. Threat modeling, secrets management, webhook security, and how to red-team your own agents.
-
-[Amazon Kindle](https://www.amazon.com/Production-Ready-Agents-Reliability-Real-World-ebook/dp/B0GQ9FV9D2/)
-
-### Coffee Dialogues: Curiosity of a Brewseeker
+<div align="center">
+<table>
+<tr>
+<td align="center" width="250">
+<a href="https://www.amazon.com/Production-Ready-Agents-Reliability-Real-World-ebook/dp/B0GQ9FV9D2/">
+<img src="https://m.media-amazon.com/images/I/71RJ0FMTXCL._SY466_.jpg" alt="Production Ready AI Agents" width="150"/>
+</a>
+<br/>
+<strong>Production Ready AI Agents</strong>
+<br/>
+Security, reliability, and control for real-world AI workflows. Threat modeling, secrets management, webhook security.
+<br/><br/>
+<a href="https://www.amazon.com/Production-Ready-Agents-Reliability-Real-World-ebook/dp/B0GQ9FV9D2/">
+<img src="https://img.shields.io/badge/Buy_on_Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white"/>
+</a>
+</td>
+<td align="center" width="250">
+<a href="https://amzn.to/3X4CnsO">
+<img src="https://www.atulpathria.com/book-cover.jpeg" alt="Coffee Dialogues" width="150"/>
+</a>
+<br/>
+<strong>Coffee Dialogues: Curiosity of a Brewseeker</strong>
+<br/>
 A dialogue-format journey through the world of coffee — origins, brewing, culture.
-
-[Amazon](https://www.amazon.com/dp/B0GQ9FV9D2/)
+<br/><br/>
+<a href="https://amzn.to/3X4CnsO">
+<img src="https://img.shields.io/badge/Buy_on_Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white"/>
+</a>
+</td>
+<td align="center" width="250">
+<a href="https://amzn.to/3yS0Vgt">
+<img src="https://www.atulpathria.com/networking-book-cover.jpg" alt="Networking Book Cover" width="150"/>
+</a>
+<br/>
+<strong>Unlock Your Networking Potential</strong>
+<br/>
+Proven strategies for building professional networks that drive career growth and business success.
+<br/><br/>
+<a href="https://amzn.to/3yS0Vgt">
+<img src="https://img.shields.io/badge/Buy_on_Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white"/>
+</a>
+</td>
+</tr>
+</table>
+</div>
 
 ## Get in Touch
 
-- **Website:** [quinji.com](https://quinji.com)
-- **Packages:** [quinji.com/packages](https://quinji.com/packages)
-- **LinkedIn:** [in/pathria](https://linkedin.com/in/pathria)
-- **X:** [@atulpathria](https://x.com/atulpathria)
+[![Website](https://img.shields.io/badge/quinji.com-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://quinji.com)
+[![Packages](https://img.shields.io/badge/Packages_&_Pricing-2ea44f?style=for-the-badge)](https://quinji.com/packages)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@pathria-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pathria)
+[![Twitter](https://img.shields.io/badge/X-@atulpathria-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/atulpathria)
